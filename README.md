@@ -34,5 +34,4 @@ This capstone project explores global deforestation trends between 1990 and 2021
 
 ---
 
-## 📁 Project Structure
 
