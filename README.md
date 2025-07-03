@@ -1,4 +1,4 @@
-# 🌳 Global Deforestation Analysis (1990–2021)
+# 🌳 Forest Area Change Analysis (1990–2021)
 
 This capstone project explores global deforestation trends between 1990 and 2021 using publicly available forest area datasets. The goal is to identify trends in forest area changes globally and highlight the countries with the most significant deforestation or afforestation.
 
